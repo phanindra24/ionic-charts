@@ -1,0 +1,8 @@
+{
+  "name": "ionic-highcharts",
+  "app_id": "97870c8f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
